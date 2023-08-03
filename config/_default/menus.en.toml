@@ -1,0 +1,39 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+name = "Community"
+url = "community/"
+weight = 3
+
+[[main]]
+name = "GitHub ⭐️"
+url = "https://github.com/microcks/microcks"
+weight = 4
+
+[[main]]
+name = "Docs"
+url = "docs/"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "Quick Start"
+url = "https://microcks.io/documentation/getting-started/"
+
+# footer menu middle
+[[footer_middle]]
+name = "Privacy Policy"
+url = "https://www.linuxfoundation.org/legal/privacy-policy"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "https://www.linuxfoundation.org/legal/terms"
