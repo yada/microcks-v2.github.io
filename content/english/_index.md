@@ -28,16 +28,16 @@ clients_logo_slider:
   enable : true
   #title: "The best customer experiences are built with Bigspring"
   logos:
-  - "images/brands/BNP-Paribas.png"
-  - "images/brands/Deloitte.png"
-  - "images/brands/Orange.png"
-  - "images/brands/JB-Hunt.png"
-  - "images/brands/la-poste-groupe.png"
-  - "images/brands/Lombard_Odier.png"
-  - "images/brands/Sesam-Vitale.png"
-  - "images/brands/societe-generale.png"
-  - "images/brands/akwatype.png"
-  - "images/brands/codecentric.png"
+  - "images/adopters/BNP-Paribas.png"
+  - "images/adopters/Deloitte.png"
+  - "images/adopters/Orange.png"
+  - "images/adopters/JB-Hunt.png"
+  - "images/adopters/la-poste-groupe.png"
+  - "images/adopters/Lombard_Odier.png"
+  - "images/adopters/Sesam-Vitale.png"
+  - "images/adopters/societe-generale.png"
+  - "images/adopters/akwatype.png"
+  - "images/adopters/codecentric.png"
 
 ######################### Intro Video #####################
 #intro_video:
